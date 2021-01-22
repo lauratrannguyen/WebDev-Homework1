@@ -1,0 +1,34 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Laura Nguyen
+
+2. Which VPS & domain providers did you choose?
+VPS: Vultr
+Domain: Joker
+
+3. What domain name did you register?
+lauratrannguyen.com
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/lauratrannguyen/WebDev-Homework1
+
+5. Which parts of this assignment did you have trouble with, if any?
+I had A LOT of trouble with this assignment:
+- I couldn't view my sshd_config file properly at first, as it was a black and white screen. However, I just reconnected the vps with my username and I managed to get the sshd
+- I had difficulty logging into the ssh, as I kept getting permission denied. I found that starting off with a completely new user helped me go part the permission denied stage
+- I also had difficulty getting my hw01 to show on the browser, so after 2 hours of debugging, I cleared my cache, and that solved all my problems
+- The scp was difficult to follow at first, but then I just reread the documentation 100 times and managed successfully upload my image
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
